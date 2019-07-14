@@ -1,7 +1,5 @@
 # Omnifood-Restaurant
 
-## Netlify live: 
-
 [www.omnifood.com](https://musing-mccarthy-682429.netlify.com/)
 
 ## Preview Image:
